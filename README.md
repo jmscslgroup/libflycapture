@@ -1,5 +1,5 @@
-# ptgreycamdriver
-Point Grey Camera Driver for ROS
+# liflycapture
+Libflycapture is required to build Point Grey Camera Driver for ROS
 
 This repository contains two deb package necessary to build Point Grey Camera Driver for ROS.
 Originally point grey camera driver package tries to login into ptgrey website to download the deb package.
